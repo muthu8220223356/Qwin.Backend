@@ -408,6 +408,11 @@ FodyWeavers.xsd
 
 # Built Visual Studio Code Extensions
 *.vsix
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore all obj folders in the solution
+**/obj/
 
 # Windows Installer files from build outputs
 *.cab
