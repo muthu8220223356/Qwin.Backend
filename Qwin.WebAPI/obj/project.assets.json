@@ -4208,11 +4208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Qwin.WebAPI\\Qwin.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Qwin.WebAPI\\Qwin.WebAPI.csproj",
       "projectName": "Qwin.WebAPI",
-      "projectPath": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Qwin.WebAPI\\Qwin.WebAPI.csproj",
+      "projectPath": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Qwin.WebAPI\\Qwin.WebAPI.csproj",
       "packagesPath": "C:\\Users\\muthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Qwin.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Qwin.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4233,8 +4233,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Domain\\Domain.csproj"
+            "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Domain\\Domain.csproj"
             }
           }
         }

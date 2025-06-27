@@ -1364,11 +1364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Qwin.WebApiTemp\\Qwin.WebApiTemp.csproj",
+      "projectUniqueName": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Qwin.WebApiTemp\\Qwin.WebApiTemp.csproj",
       "projectName": "Qwin.WebApiTemp",
-      "projectPath": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Qwin.WebApiTemp\\Qwin.WebApiTemp.csproj",
+      "projectPath": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Qwin.WebApiTemp\\Qwin.WebApiTemp.csproj",
       "packagesPath": "C:\\Users\\muthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muthu\\source\\repos\\QwinRepo\\Qwin\\Qwin.WebApiTemp\\obj\\",
+      "outputPath": "C:\\Users\\muthu\\source\\repos\\Qwin.Backend1\\Qwin.WebApiTemp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
