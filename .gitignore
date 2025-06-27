@@ -420,3 +420,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# VS settings
+.vs/
+
+# Build artifacts
+**/bin/
+**/obj/
+
