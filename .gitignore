@@ -1,0 +1,79 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.vscode/
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# Backup & crash files
+*.bak
+*.tmp
+
+# IIS Express
+.vs/
+*.config.user
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# Uncomment if using packages.config
+# packages/
+
+# Entity Framework
+Migrations/
+
+# Rider IDE
+.idea/
+
+# JetBrains Rider & ReSharper
+*.DotSettings.user
+_ReSharper*/
+*.ReSharper
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Other
+*.dbmdl
+*.bak
+*.sqlite
+*.mdf
+*.ldf
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Build directories
+build/
