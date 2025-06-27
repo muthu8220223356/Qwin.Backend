@@ -1,0 +1,6 @@
+@Qwin.WebApiTemp_HostAddress = http://localhost:5124
+
+GET {{Qwin.WebApiTemp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
